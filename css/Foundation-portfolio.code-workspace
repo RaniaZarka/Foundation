@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "Foundation-portfolio",
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5501
+  }
+}
